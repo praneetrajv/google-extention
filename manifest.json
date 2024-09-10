@@ -1,0 +1,10 @@
+{
+    "version": "1.0",
+    "manifest_version": 3,
+    "name": "Leads Tracker",
+    "action":{
+        "default_popup": "chrome.html",
+        "default_icon": "rupee.png"
+    }
+}
+
